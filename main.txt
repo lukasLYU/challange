@@ -1,0 +1,7 @@
+Can you find an X ?
+You might not find an acurret answer, but, you can always DM me (lukasLYU), if your answer is close enough, i will give you the real one for submition. But it shouldn't
+be a problem, I tried multiple methods to solve the equation, all of them gave me the same answer.
+After you get the answer, if its has multiple numbers after dot, only use 5 of them, no more is needed.
+So, this is the equation -
+3x^2-sin(x) = 13
+Submit your answer like this - OM{what_You_Got_Here}
